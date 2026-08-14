@@ -2,7 +2,7 @@
 
 **Deep-Learning Cell Segmentation for Fluorescent & Bright-Field Microscopy Images**
 
-Preprocessing and segmentation of cells in **fluorescent channel** and **bright-field channel** images captured in a **16-well chip**, using a trained deep-learning segmentation model (`SegModel`).
+Preprocessing and segmentation of cells in **fluorescent channel** and **bright-field channel** images captured in a **16 wells chip**, using a trained deep-learning segmentation model (`SegModel`).
 
 ## 📦 Contents
 
